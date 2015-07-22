@@ -6,7 +6,6 @@ Takes a melody specified in MIDI and performs various tranformations on the melo
 Probabilities are assigned to the various transformations, with statistical feedback being used to 
 choose which tranformation to perform.
 
-alpha_statFeedback controls
 Parameters in RunStatisticalFeedbackMultiTrack:
   alpha_statFeedback : higher value leads least-recently chosen transformation to have highest prob
   numRuns : number of transformations
