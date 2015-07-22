@@ -6,6 +6,7 @@ Probabilities are assigned to the various transformations, with statistical feed
 choose which tranformation to perform.
 
 Parameters in RunStatisticalFeedbackMultiTrack:
+
   alpha_statFeedback : higher value leads least-recently chosen transformation to have highest prob
-  numRuns : number of transformations
   weights : probabilities for various transformations
+  numRuns : number of transformations
