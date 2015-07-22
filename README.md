@@ -1,5 +1,6 @@
 # scramble
 Melody Scrambler / Remixer for MIDI
+Final Project for WACM
 
 Takes a melody specified in MIDI and performs various tranformations on the melody.
 Probabilities are assigned to the various transformations, with statistical feedback being used to 
